@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Expense Management</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="add_to_balance">Add to Balance</string>
+    <string name="subtract_amount">Subtract Amount</string>
+    <string name="summary">Summary</string>
+    <string name="last_income">Last Income: $%1$s</string>
+    <string name="last_expense">Last Expense: $%1$s</string>
+    <string name="total_balance">Total Balance: $%1$s</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="confirm_msg">Are you sure you entered correct amount?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="please_enter_amount">Please enter amount</string>
+    <string name="amount_added_success">Amount added successfully</string>
+    <string name="amount_subtracted_success">Amount subtracted successfully</string>
+</resources>
